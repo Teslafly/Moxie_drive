@@ -1,0 +1,53 @@
+(module moxie-drive-custom:SOP8_Advance (layer F.Cu) (tedit 5B3D51C6)
+  (fp_text reference REF** (at 0 0.5) (layer Dwgs.User)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value SOP8_Advance (at 0 -0.5) (layer Dwgs.User)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd custom (at 0 0 270) (size 3.75 4.7) (layers F.Cu F.Paste F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+    ))
+  (pad 3 smd custom (at -1.905 3.3 270) (size 1.45 0.85) (layers F.Cu F.Paste F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+    ))
+  (pad 3 smd custom (at -0.635 3.3 270) (size 1.45 0.85) (layers F.Cu F.Paste F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+    ))
+  (pad 3 smd custom (at 0.635 3.3 270) (size 1.45 0.85) (layers F.Cu F.Paste F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+    ))
+  (pad 3 smd custom (at 1.905 3.3 270) (size 1.45 0.85) (layers F.Cu F.Paste F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+    ))
+  (pad 1 smd custom (at 1.905 -2.4 270) (size 1.05 0.89) (layers F.Cu F.Paste F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+    ))
+  (pad 1 smd custom (at 0.635 -2.4 270) (size 1.05 0.85) (layers F.Cu F.Paste F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+    ))
+  (pad 1 smd custom (at -0.635 -2.4 270) (size 1.05 0.85) (layers F.Cu F.Paste F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+    ))
+  (pad 1 smd custom (at -1.905 -2.4 270) (size 1.05 0.89) (layers F.Cu F.Paste F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+    ))
+)
