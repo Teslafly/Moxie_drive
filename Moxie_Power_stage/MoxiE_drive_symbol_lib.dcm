@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SY8502
+D 85V 1.2A Synchronous buck regulator
+K buck, Synchronous
+F https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY8502FCC_C87752.pdf
+$ENDCMP
+#
+#End Doc Library

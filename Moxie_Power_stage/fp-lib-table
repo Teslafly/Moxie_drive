@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name moxie-drive-custom)(type KiCad)(uri ${KICAD_CUSTOM_LIBS}/Footprints/moxie-drive-custom.pretty)(options "")(descr ""))
+  (lib (name w_smd_cap)(type Legacy)(uri ${KICAD_CUSTOM_LIBS}/Footprints/w_smd_cap.mod)(options "")(descr ""))
+  (lib (name w_smd_diode)(type Legacy)(uri ${KICAD_CUSTOM_LIBS}/Footprints/w_smd_diode.mod)(options "")(descr ""))
+  (lib (name w_smd_inductors)(type Legacy)(uri ${KICAD_CUSTOM_LIBS}/Footprints/w_smd_inductors.mod)(options "")(descr ""))
+)

@@ -1,0 +1,1 @@
+execfile('C:\\Users\\Marshall\\Google Drive\\hardware design\\moxie_brushless_motor_controller\\moxie_drive Schematic\\MoxiE_drive_pcbhall_4layer_re-layout\\design\\Moxie_Power_stage\\replicatelayout\\replicatelayout.py')
